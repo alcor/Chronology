@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "nicholas@jitkoff.com",
+    "enableMultiJS": true,
+    "longName": "Chronology",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Chronology",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "b274c9d4-e529-4741-bb88-f8ba441892c4",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
